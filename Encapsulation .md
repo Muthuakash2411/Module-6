@@ -44,7 +44,8 @@ cir=Circle()#object created for the class 'Rectangle'
 print("Area of a rectangle:", rec.calculate_area()) #call to 'calculate_area' method defined inside the class 'Rectangle'
 print("Area of a circle:", cir.calculate_area()) #call to 'calculate_area' method defined inside the class 'Circle'.
 ## Output
-![Uploading Screenshot 2025-10-22 211928.png…]()
+<img width="1274" height="297" alt="Screenshot 2025-10-22 211928" src="https://github.com/user-attachments/assets/17b7ca08-3e3c-4398-8e09-5d39ce5f62c7" />
+
 
 ## Result
 Thus the program runs successfully.
